@@ -1,2 +1,23 @@
 # cacluladora_kotlin_bootcamp_everis
- Terminal code calculadora.kt 
+  
+ 🛠️ Curso - Introdução ao Kotlin
+ 
+ 🎓 Professora - Ana Dias - Dev. Mobile Kotlin
+ 
+ 📱 Linguagem - Kotlin
+
+ 💻 IDE - Android Studio
+ 
+ ⚡ - Desafio proposto ao final das aulas de introdução ao Kotlin
+ 
+ # O a função main() no arquivo calculadora.kt permite realizar cálculos como:
+ 
+    SOMA
+    SUBTRAÇÃO
+    DIVISÃO
+    MULTIPLICAÇÃO
+    PORCENTAGEM
+    POTÊNCIA
+    
+    OPÇÃO DE SAÍDA
+ 
