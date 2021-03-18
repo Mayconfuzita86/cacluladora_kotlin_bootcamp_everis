@@ -10,7 +10,7 @@
  
  ⚡ - Desafio proposto ao final das aulas de introdução ao Kotlin
  
- # O a função main() no arquivo calculadora.kt permite realizar cálculos como:
+ # A função main() no arquivo calculadora.kt permite realizar cálculos como:
  
     SOMA
     SUBTRAÇÃO
