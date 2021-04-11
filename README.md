@@ -2,7 +2,7 @@
   
  🛠️ Curso - Introdução ao Kotlin
  
- 🎓 Professora - Ana Dias - Dev. Mobile Kotlin
+ 🎓 Instrutora - Ana Dias - Dev. Mobile Kotlin
  
  📱 Linguagem - Kotlin
 
